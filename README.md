@@ -66,6 +66,6 @@ Tambien dar las gracias al equipo docente tanto de primer año pero especialment
 
 
 ## 🔗 Links 🔗
-[![notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)](https://katherineoelsner.com/)  &nbsp;
+[![notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)](https://migueldad.notion.site/migueldad/Wiki-DAM-05b6cf0ecd4f414bb0e47acf53b58444)  &nbsp;
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/migueldaad)
 
