@@ -1,0 +1,9 @@
+En JavaFX, la clase Task es una clase que proporciona una forma de realizar tareas en segundo plano y actualizar la interfaz de usuario de forma segura desde el hilo de la interfaz de usuario (también conocido como hilo principal).
+
+La clase Task es una subclase de la clase javafx.concurrent.Service y está diseñada para manejar tareas largas y potencialmente bloqueantes, como realizar operaciones de E/S intensivas o ejecutar cálculos complejos, sin bloquear la interfaz de usuario y mantenerla receptiva.
+
+Al extender la clase Task, puedes implementar la lógica de la tarea en el método call(). Este método se ejecuta en un hilo separado, lo que permite realizar operaciones de larga duración sin bloquear la interfaz de usuario. Dentro del método call(), puedes actualizar el estado de la tarea utilizando métodos como updateProgress(), updateMessage(), updateValue(), entre otros.
+
+La clase Task también proporciona diferentes eventos y propiedades que te permiten monitorear y responder a los cambios de estado de la tarea, como cuando se inicia, se cancela o se completa.
+
+En resumen, la clase Task en JavaFX es una herramienta útil para realizar tareas largas en segundo plano mientras se mantiene la capacidad de interactuar con la interfaz de usuario de manera segura y receptiva

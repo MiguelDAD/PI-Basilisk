@@ -1,0 +1,10 @@
+-Cliente Escritorio
+PreAlpha-0.1 = Se crea todo lo relacionado con los torneos excepto la pestaña de rondas que se creará una vez la parte de movil se empieze a desarrollar
+PreAlpha-0.2 = Se crea la ventana de ligas(se muestran las tarjetas de información de liga) y se añade la opcion de crear liga.
+PreAlpha-0.3 = Los torneos reaccionan segun el estado, botones para terminar torneo, insertar ronda en torneo y establecida las comunicaciones con la clase task.
+
+-Cliente Móvil
+
+PreAlpha-0.1 = Se crea la pestaña de login, la pestaña de home, y se hace el fragment de equipo sin utilidad.
+PreAlpha-0.2 = Se añade la opccion crear equipo, información de equipo y añadir usuario a equipo.
+PreAlpha-0.3 = Todo la parte correspondiente a torneo creada a la espera de construir las rondas.
