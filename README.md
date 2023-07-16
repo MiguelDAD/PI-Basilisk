@@ -1,5 +1,6 @@
 
 # 🐍 ¿Qué es Basilisk? 🐍
+<img align="right" height="240" src="https://github.com/MiguelDAD/PI-Basilisk/blob/main/Varios/logo.png?raw=true">
 
 **Basilisk** es una **aplicación/red social** que permite crear y unirse a torneos, ligas y partidos de deportes colectivos. Además se pueden crear **equipos** de distintas privacidades y deportes donde los usuarios puedan unirse a través de invitación o buscando el equipo en un mapa real y conocer a distintos usuarios. Tambien sirve de pasarela de pago con los eventos deportivos que se encuentren en la aplicación.
 
